@@ -16,7 +16,6 @@ Gem::Specification.new do |gem|
   gem.require_path  = 'lib'
 
   gem.add_dependency 'kt-paperclip'
-  gem.add_dependency 'paperclip', ['>= 2.3.6', '!=4.3.0', '!=4.3.3']
 
   gem.add_development_dependency 'bundler'
   gem.add_development_dependency 'rake'
