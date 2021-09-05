@@ -3,7 +3,6 @@ PATH
   specs:
     mongoid-paperclip (1.0.0.pre)
       kt-paperclip
-      paperclip (>= 2.3.6, != 4.3.3, != 4.3.0)
 
 GEM
   remote: https://rubygems.org/
